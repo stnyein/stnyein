@@ -48,13 +48,6 @@ Conversational AI assistant offering instant, context-aware knowledge and insigh
 
 ---
 
-## 📈 GitHub Stats
-
-![Sithu Nyein GitHub stats](https://github-readme-stats.vercel.app/api?username=stnyein&show_icons=true&hide=prs&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stnyein&layout=compact&theme=radical)
-
----
-
 ## 📩 Contact Me
 
 - **Email:** [sithunyein.mailto@gmail.com](mailto:sithunyein.mailto@gmail.com)  
