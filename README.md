@@ -1,60 +1,100 @@
-# 👋 Hi, I’m Sithu Nyein
+# 👋 Hi, I’m **Sithu Nyein**
 
-Digital Marketer & AI Innovator from Myanmar.  
-I help brands grow through **AI-powered content**, **digital marketing strategies**, and **creative solutions**.
-
----
-
-## 🚀 Featured Projects
-
-### [Momentum AI](https://momentumai-beta.vercel.app)  
-AI-powered growth platform for business acceleration, marketing optimization, and intelligent analytics.
-
-### [AdGenius AI](https://adgeniusai.vercel.app)  
-Generative AI tool that creates high-converting ad copy, visuals, and campaign strategies in seconds.
-
-### [Aura Dental Studio](https://auradentalstudio.vercel.app)  
-Professional and responsive website for a dental clinic focused on user experience and conversions.
-
-### [Knowsta Studio](https://knowstastudio.vercel.app)  
-Smart productivity and content management platform for creators and marketers.
-
-### [FocusAxis](https://focusaxis.vercel.app)  
-Personal productivity dashboard to manage workflows, track goals, and enhance focus.
-
-### [Knowsta AI Assistant](https://knowsta.vercel.app)  
-Conversational AI assistant offering instant, context-aware knowledge and insights.
+I’m a digital marketer, AI innovator, and full-stack developer passionate about building solutions that drive growth, enhance user experience, and merge creativity with technology.  
+Explore my work → **https://sithunyein.vercel.app**
 
 ---
 
-## 🧠 Core Skills
+## 🚀 What I Do
 
-- Digital Marketing Strategy  
-- Artificial Intelligence & Automation  
-- Google SEO Optimization  
-- Content Marketing & Branding  
-- Social Media Growth & Ads Management  
-- Web Development: HTML, CSS, JavaScript, React, Node.js  
+I blend data-driven strategy with creative innovation to deliver high-impact digital experiences.
 
----
+### 🔍 Google SEO  
+Boosting visibility and organic traffic with advanced white-hat SEO techniques.
 
-## 💬 Testimonials
+### ✍️ Content Strategy  
+Crafting compelling, conversion-focused narratives that resonate with audiences.
 
-> “Sithu’s expertise in AI-driven marketing strategies is unparalleled. He delivered results that exceeded our expectations.”  
-> — John Doe, CEO, Tech Innovators  
+### 🤖 Generative AI  
+Leveraging cutting-edge AI to automate creation, boost productivity, and innovate at scale.
 
-> “The SEO results were phenomenal. Our organic traffic skyrocketed within three months.”  
-> — Alice Smith, Marketing Director, Creative Co.  
+### 📈 Digital Marketing  
+Developing integrated, ROI-driven campaigns that grow brands and communities.
 
----
+### 💻 Web Development  
+Building responsive, high-performance applications with **React**, **Next.js**, **Node.js**, and **Python**.
 
-## 📩 Contact Me
-
-- **Email:** [sithunyein.mailto@gmail.com](mailto:sithunyein.mailto@gmail.com)  
-- **Portfolio:** [sithunyein.vercel.app](https://sithunyein.vercel.app)  
-- **LinkedIn:** [linkedin.com/in/sithunyein](https://www.linkedin.com/in/sithunyein)  
-- **Facebook:** [facebook.com/sithunyein.me](https://www.facebook.com/sithunyein.me)  
+### 🎨 UI/UX Design  
+Designing intuitive, user-centric interfaces that maximize engagement and conversions.
 
 ---
 
-© 2025 **Sithu Nyein** — Designed with simplicity and intelligence.
+## 🧠 About Me
+
+I'm a passionate digital marketer and AI creator who thrives at the intersection of technology, content, and user experience.  
+I use data-driven insights to craft strategies that deliver measurable results while exploring new frontiers in the digital landscape.
+
+### My Core Values  
+- **Ethical AI** — Building responsibly with fairness and user well-being in mind.  
+- **Data Privacy** — Creating privacy-first, secure digital experiences.  
+- **Transparency** — Clear communication and honest collaboration at every stage.  
+
+---
+
+## 🔧 My Toolkit
+
+**SEO · Content Strategy · Generative AI · Digital Marketing · React · Node.js · Python**
+
+---
+
+## 📁 Featured Projects
+
+### 🎮 **GrammarGo — The Crazy Classroom Challenge**  
+A fun offline educational game turning English learning into a hilarious, interactive classroom adventure.  
+🔗 https://grammargo.vercel.app/
+
+---
+
+### 🔐 **ShieldNet VPN — Secure & Private Browsing**  
+Fast, private, one-tap encrypted browsing designed for safety on any network.  
+🔗 https://shieldnetvpn.vercel.app/
+
+---
+
+### 🎨 **AdSculpt — AI-Powered Ad Creatives**  
+Empowering marketers to create and optimize compelling ad campaigns using the Gemini API.  
+🔗 https://adsculpt.vercel.app/
+
+---
+
+### 🧩 **BrainVerse — Interactive Learning Game**  
+A collection of interactive puzzles designed to sharpen cognitive skills and knowledge.  
+🔗 https://brainversegame.vercel.app/
+
+---
+
+### 🌐 **UniLang — The Unified Language**  
+An open-source language that unifies your entire tech stack—from UI to AI—into one human-centric syntax.  
+🔗 https://unilang.vercel.app/
+
+---
+
+### 🤖 **Knowsta – AI Knowledge Assistant**  
+An intelligent assistant powered by the Gemini API to boost creativity, learning, and idea organization.  
+🔗 https://knowsta.vercel.app/
+
+---
+
+## 🔗 Connect With Me
+
+- **GitHub:** https://github.com/stnyein  
+- **LinkedIn:** https://linkedin.com/in/sithunyein  
+- **Email:** sithunyein.mailto@gmail.com  
+- **Portfolio:** https://sithunyein.vercel.app  
+
+---
+
+> *“Innovation lives where creativity meets strategy—and I build at that intersection.”*
+
+Thanks for stopping by!  
+Feel free to explore my work or reach out to collaborate.  
