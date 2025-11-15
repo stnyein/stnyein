@@ -3,7 +3,7 @@
 # 👋 Hey, I’m <strong>Sithu Nyein</strong>  
 ### Digital Marketer • AI Innovator • Full-Stack Developer  
 
-I create data-driven digital experiences, build intelligent tools, and design human-centered products that inspire, engage, and grow.
+I build intelligent digital experiences that merge creativity, strategy, and technology.
 
 🌐 **Portfolio:** https://sithunyein.vercel.app  
 📫 **Email:** sithunyein.mailto@gmail.com  
@@ -14,48 +14,37 @@ I create data-driven digital experiences, build intelligent tools, and design hu
 
 ---
 
-## 🚀 What I Do
+## 🚀 Tech & Tools
 
-I merge **strategy + creativity + technology** to deliver high-impact solutions.
+<div align="center">
 
-- 🔍 **Google SEO:** White-hat strategies that boost visibility & organic reach  
-- ✍️ **Content Strategy:** Stories that resonate, connect, and convert  
-- 🤖 **Generative AI:** Automating creation & accelerating innovation  
-- 📈 **Digital Marketing:** ROI-driven, integrated growth campaigns  
-- 💻 **Web Development:** React, Next.js, Node.js, Python  
-- 🎨 **UI/UX Design:** Human-centered interfaces that enhance engagement  
+![SEO](https://img.shields.io/badge/SEO-Optimization-blue)
+![Content Strategy](https://img.shields.io/badge/Content-Strategy-purple)
+![AI](https://img.shields.io/badge/Generative-AI-orange)
+![Digital Marketing](https://img.shields.io/badge/Digital-Marketing-green)
 
----
+<br>
 
-## 🧠 About Me
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss)
 
-I thrive at the intersection of technology, creativity, and user experience.  
-Whether it’s optimizing SEO performance, designing intelligent AI systems, or building high-performance web apps, I aim to create **meaningful, scalable, and ethical digital solutions**.
-
-### My Core Principles  
-- 🤝 **Transparency:** Clear communication & honest collaboration  
-- 🔐 **Data Privacy:** Protecting users and earning trust  
-- ⚖️ **Ethical AI:** Fair, safe, responsible innovation  
-
----
-
-## 🔧 My Toolkit
-
-**SEO • Content Strategy • Generative AI • Digital Marketing**  
-**React • Next.js • Node.js • Python**
+</div>
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🎮 **GrammarGo — The Crazy Classroom Challenge**  
-A fun, offline educational game turning English learning into an unforgettable interactive adventure.  
+A fun, offline educational game turning English learning into an unforgettable adventure.  
 🔗 https://grammargo.vercel.app/
 
 ---
 
 ### 🔐 **ShieldNet VPN — Secure & Private Browsing**  
-Fast, encrypted, one-tap VPN designed for privacy, security, and simplicity.  
+Fast, encrypted, one-tap VPN designed for privacy, safety, and simplicity.  
 🔗 https://shieldnetvpn.vercel.app/
 
 ---
@@ -67,37 +56,67 @@ Create high-performing ad campaigns using real-time insights from the Gemini API
 ---
 
 ### 🧩 **BrainVerse — Interactive Learning Game**  
-Engage your mind with cognitive skill-boosting puzzles and mini-games.  
+Engage your mind with interactive puzzles to boost cognitive skills.  
 🔗 https://brainversegame.vercel.app/
 
 ---
 
 ### 🌐 **UniLang — The Unified Language**  
-A human-centric, open-source language that unifies UI, backend, and AI logic into one syntax.  
+A human-centric language that unifies UI, backend, and AI logic into one syntax.  
 🔗 https://unilang.vercel.app/
 
 ---
 
-### 🤖 **Knowsta — AI Knowledge Assistant**  
-A smart Gemini-powered assistant that organizes ideas, boosts creativity, and speeds up learning.  
+### 🤖 **Knowsta – AI Knowledge Assistant**  
+A Gemini-powered assistant to boost creativity, learning, and idea organization.  
 🔗 https://knowsta.vercel.app/
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stnyein&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stnyein&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com/?user=stnyein&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I thrive at the intersection of **technology, marketing, and AI**.  
+From SEO optimization to full-stack development and AI-powered tools, I create solutions that deliver measurable impact.
+
+### Core Values  
+- 🔐 **Data Privacy:** User trust first  
+- ⚖️ **Ethical AI:** Fair, responsible development  
+- 🤝 **Transparency:** Clear, honest collaboration  
 
 ---
 
 ## 🤝 Connect With Me
 
-📌 **Portfolio:** https://sithunyein.vercel.app  
-📌 **LinkedIn:** https://linkedin.com/in/sithunyein  
-📌 **GitHub:** https://github.com/stnyein  
-📌 **Email:** sithunyein.mailto@gmail.com  
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/stnyein)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/sithunyein)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel)](https://sithunyein.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EE0000?logo=gmail)](mailto:sithunyein.mailto@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-> <strong>“I build where creativity meets intelligence — and strategy turns into impact.”</strong>
+> <strong>“I build where creativity meets intelligence — and strategy becomes impact.”</strong>  
 
 Thanks for visiting! 🚀  
-Let’s collaborate and build something extraordinary.
+Let’s create something extraordinary.
 
 </div>
