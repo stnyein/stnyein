@@ -9,7 +9,7 @@
 
 **Web3 and AI Engineer**
 
-Solana · Autonomous Agents · Developer Tooling · Yangon, Myanmar
+Agents · Confidential Compute · On-chain Payments · Yangon, Myanmar
 
 <br />
 
@@ -29,7 +29,7 @@ Solana · Autonomous Agents · Developer Tooling · Yangon, Myanmar
 
 ## About
 
-I build Solana applications, autonomous agents, and developer tooling in TypeScript, Rust, and Python. I ship in public on Superteam and DoraHacks.
+I build agent systems, confidential tooling, and on-chain payment products in TypeScript, Rust, Go, and Python. I ship in public on Superteam and DoraHacks.
 
 Open to remote or full-time engineering roles. Aiming for a funded MSCS or PhD in blockchain systems, agent infrastructure, and security.
 
@@ -41,14 +41,15 @@ Open to remote or full-time engineering roles. Aiming for a funded MSCS or PhD i
 
 | Project | Focus | Links |
 |:---|:---|:---|
-| **[GoalTip](https://github.com/thesithunyein/goaltip)** | Self-custodial USDt tipping for football watch parties | [Live](https://goaltip-web.vercel.app) · [Repo](https://github.com/thesithunyein/goaltip) |
-| **[TxLINE Arena](https://github.com/thesithunyein/txline-arena)** | Four autonomous agents trading live sports odds on Solana | [Live](https://txline-arena.vercel.app) · [Repo](https://github.com/thesithunyein/txline-arena) |
-| **[NovaPay](https://github.com/thesithunyein/nova-oracle)** | Private payroll with Cloak shielded UTXOs and viewing keys | [Live](https://nova-oracle.xyz/) · [Repo](https://github.com/thesithunyein/nova-oracle) |
+| **[ShiftLedger](https://github.com/thesithunyein/shiftledger)** | AI-validated stablecoin payroll for industrial shift workers | [Live](https://shiftledger.sithunyein.com) · [Repo](https://github.com/thesithunyein/shiftledger) |
+| **[Cipher Sign](https://github.com/thesithunyein/cipher-sign)** | Policy-gated confidential signer on Flare Confidential Compute | [Live](https://cipher-sign.vercel.app) · [Repo](https://github.com/thesithunyein/cipher-sign) |
+| **[PixelBrief](https://github.com/thesithunyein/pixelbrief)** | One prompt to a full brand kit, paid per job via x402 | [Live](https://www.pixelbrief.tech) · [Repo](https://github.com/thesithunyein/pixelbrief) |
 | **[Consensus](https://github.com/thesithunyein/consensus)** | N-of-M multi-sig Telegram trading desk. Zerion honorable mention | [Repo](https://github.com/thesithunyein/consensus) · [Mention](https://x.com/zerion/status/2060377271337463835) |
 
-[![solana-tx-debugger-skill](https://img.shields.io/badge/solana--tx--debugger--skill-22%2B%20error%20recipes-9945FF?style=flat-square&logo=solana&logoColor=white)](https://github.com/thesithunyein/solana-tx-debugger-skill)
-[![croo-contractor-agent](https://img.shields.io/badge/croo--contractor--agent-Base%20agent%20ops-0052FF?style=flat-square&logo=base&logoColor=white)](https://github.com/thesithunyein/croo-contractor-agent)
-[![palm-remit](https://img.shields.io/badge/palm--remit-PUSD%20remittance-14F195?style=flat-square&logo=solana&logoColor=black)](https://github.com/thesithunyein/palm-remit)
+[![cloak-router](https://img.shields.io/badge/cloak--router-private%20Uniswap%20routing-6C5CE7?style=flat-square)](https://github.com/thesithunyein/cloak-router)
+[![casper-ai-portfolio-agent](https://img.shields.io/badge/casper--ai--portfolio--agent-x402%20RWA%20agent-0052FF?style=flat-square)](https://github.com/thesithunyein/casper-ai-portfolio-agent)
+[![croo-contractor-agent](https://img.shields.io/badge/croo--contractor--agent-Base%20A2A%20ops-0052FF?style=flat-square&logo=base&logoColor=white)](https://github.com/thesithunyein/croo-contractor-agent)
+[![ohlarr](https://img.shields.io/badge/ohlarr-agent%20payment%20rails-14F195?style=flat-square&logo=solana&logoColor=black)](https://github.com/thesithunyein/ohlarr)
 
 ---
 
@@ -56,16 +57,15 @@ Open to remote or full-time engineering roles. Aiming for a funded MSCS or PhD i
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-512BD4?style=for-the-badge)
-![Base](https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=base&logoColor=white)
 
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
-![Private Payments](https://img.shields.io/badge/Private%20Payments-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
-![ZK](https://img.shields.io/badge/ZK%20%2F%20Cloak-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
-![Solana Tooling](https://img.shields.io/badge/Solana%20Tooling-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
+![x402](https://img.shields.io/badge/x402-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
+![Confidential Compute](https://img.shields.io/badge/Confidential%20Compute-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
+![Flare](https://img.shields.io/badge/Flare-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
 
 ---
 
