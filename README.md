@@ -20,6 +20,7 @@ TypeScript · Next.js · AI Agents · Yangon, Myanmar
 
 [![Superteam](https://img.shields.io/badge/Superteam-Active-14F195?style=flat-square&logo=solana&logoColor=black)](https://superteam.fun/earn/t/sithunyein)
 [![DoraHacks](https://img.shields.io/badge/DoraHacks-Builder-6C5CE7?style=flat-square)](https://dorahacks.io/hacker/sithunyein)
+[![HackQuest](https://img.shields.io/badge/HackQuest-Builder-0d0d10?style=flat-square)](https://www.hackquest.io/)
 [![Zerion](https://img.shields.io/badge/Zerion-Honorable%20Mention-2962EF?style=flat-square)](https://x.com/zerion/status/2060377271337463835)
 [![English](https://img.shields.io/badge/English-C2%20Proficient-1B4F72?style=flat-square)](https://cert.efset.org/F94d2X)
 
@@ -29,7 +30,7 @@ TypeScript · Next.js · AI Agents · Yangon, Myanmar
 
 ## About
 
-I build production TypeScript and Next.js apps with LLM APIs, AI agents, and workflow automation. I ship in public on Superteam and DoraHacks.
+I build production TypeScript and Next.js apps with LLM APIs, AI agents, and workflow automation. I ship in public on Superteam, DoraHacks, and HackQuest.
 
 Open to full-time roles in Yangon and remote engineering work.
 
@@ -42,7 +43,7 @@ Open to full-time roles in Yangon and remote engineering work.
 | Project | Focus | Links |
 |:---|:---|:---|
 | **[Arb Guardian](https://github.com/thesithunyein/arb-guardian)** | Officer AI reviews spends, blocks scams, freezes guild banks | [Live](https://arb-guardian.vercel.app) · [Repo](https://github.com/thesithunyein/arb-guardian) |
-| **[PixelBrief](https://github.com/thesithunyein/pixelbrief)** | AI agent: one prompt to a full brand kit | [Live](https://www.pixelbrief.tech) · [Repo](https://github.com/thesithunyein/pixelbrief) |
+| **[PixelBrief](https://github.com/thesithunyein/pixelbrief)** | HackQuest OKX.AI Genesis · AI agent brand kit | [Live](https://www.pixelbrief.tech) · [Repo](https://github.com/thesithunyein/pixelbrief) |
 | **[Casper AI Portfolio Agent](https://github.com/thesithunyein/casper-ai-portfolio-agent)** | Autonomous AI agent with LLM analysis, tool calls, and proofs | [Live](https://casper-ai-portfolio-agent.vercel.app) · [Repo](https://github.com/thesithunyein/casper-ai-portfolio-agent) |
 | **[ShiftLedger](https://github.com/thesithunyein/shiftledger)** | AI-validated payroll checks and receipt workflow | [Live](https://shiftledger.sithunyein.com) · [Repo](https://github.com/thesithunyein/shiftledger) |
 
