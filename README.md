@@ -1,5 +1,5 @@
 <!--
-  GitHub profile README for thesithunyein
+  Place this file at: github.com/thesithunyein/thesithunyein → README.md
   Synced with https://sithunyein.com
 -->
 
@@ -7,9 +7,9 @@
 
 # Sithu Nyein
 
-**Web and AI Developer**
+**Web3 & AI Engineer**
 
-TypeScript · Next.js · AI Agents · Yangon, Myanmar
+TypeScript · Solana · AI Agents · Yangon, Myanmar
 
 <br />
 
@@ -30,9 +30,9 @@ TypeScript · Next.js · AI Agents · Yangon, Myanmar
 
 ## About
 
-I build production TypeScript and Next.js apps with LLM APIs, AI agents, and workflow automation. I ship in public on Superteam, DoraHacks, and HackQuest.
+I build agent systems, on-chain products, and TypeScript apps that ship past the demo. I ship in public on Superteam, DoraHacks, and HackQuest.
 
-Open to full-time roles in Yangon and remote engineering work.
+Open to remote and full-time engineering roles.
 
 **Portfolio:** [sithunyein.com](https://sithunyein.com) · **Email:** [sithunyein.mailto@gmail.com](mailto:sithunyein.mailto@gmail.com)
 
@@ -42,14 +42,13 @@ Open to full-time roles in Yangon and remote engineering work.
 
 | Project | Focus | Links |
 |:---|:---|:---|
-| **[Arb Guardian](https://github.com/thesithunyein/arb-guardian)** | Officer AI reviews spends, blocks scams, freezes guild banks | [Live](https://arb-guardian.vercel.app) · [Repo](https://github.com/thesithunyein/arb-guardian) |
-| **[PixelBrief](https://github.com/thesithunyein/pixelbrief)** | HackQuest OKX.AI Genesis · AI agent brand kit | [Live](https://www.pixelbrief.tech) · [Repo](https://github.com/thesithunyein/pixelbrief) |
-| **[Casper AI Portfolio Agent](https://github.com/thesithunyein/casper-ai-portfolio-agent)** | Autonomous AI agent with LLM analysis, tool calls, and proofs | [Live](https://casper-ai-portfolio-agent.vercel.app) · [Repo](https://github.com/thesithunyein/casper-ai-portfolio-agent) |
-| **[ShiftLedger](https://github.com/thesithunyein/shiftledger)** | AI-validated payroll checks and receipt workflow | [Live](https://shiftledger.sithunyein.com) · [Repo](https://github.com/thesithunyein/shiftledger) |
+| **[Vectra](https://github.com/thesithunyein/vectra)** | Industrial monitoring · AI downtime briefs · Solana-attested handoffs | [Live](https://vectra.sithunyein.com) · [Repo](https://github.com/thesithunyein/vectra) |
+| **[Spark](https://github.com/thesithunyein/spark)** | Attestcoin-verified DeFi credit on Creditcoin | [Live](https://spark-defi.vercel.app) · [Repo](https://github.com/thesithunyein/spark) |
+| **[PixelBrief](https://github.com/thesithunyein/pixelbrief)** | HackQuest OKX.AI Genesis · brand-kit ASP | [Agent #5421](https://www.okx.ai/agents/5421) · [Repo](https://github.com/thesithunyein/pixelbrief) |
 
-[![croo-contractor-agent](https://img.shields.io/badge/croo--contractor--agent-multi--agent%20ops-0052FF?style=flat-square)](https://github.com/thesithunyein/croo-contractor-agent)
+[![arb-guardian](https://img.shields.io/badge/arb--guardian-Officer%20AI-0052FF?style=flat-square)](https://github.com/thesithunyein/arb-guardian)
 [![cipher-sign](https://img.shields.io/badge/cipher--sign-policy%20TEE%20vault-6C5CE7?style=flat-square)](https://github.com/thesithunyein/cipher-sign)
-[![striker-os](https://img.shields.io/badge/striker--os-MCP%20%2B%20Agent%20Skills-14F195?style=flat-square)](https://github.com/thesithunyein/striker-os)
+[![shiftledger](https://img.shields.io/badge/shiftledger-AI%20payroll-14F195?style=flat-square)](https://github.com/thesithunyein/shiftledger)
 [![consensus](https://img.shields.io/badge/consensus-Zerion%20mention-2962EF?style=flat-square)](https://github.com/thesithunyein/consensus)
 
 ---
@@ -57,16 +56,16 @@ Open to full-time roles in Yangon and remote engineering work.
 ## Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
+![x402](https://img.shields.io/badge/x402-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
+![Foundry](https://img.shields.io/badge/Foundry-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
-![LLM APIs](https://img.shields.io/badge/LLM%20APIs-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
 
 ---
 
