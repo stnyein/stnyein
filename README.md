@@ -9,7 +9,7 @@
 
 **Web3 & AI Engineer**
 
-TypeScript · Solana · AI Agents · Yangon, Myanmar
+TypeScript · Solana · Yangon, Myanmar
 
 <br />
 
@@ -30,7 +30,7 @@ TypeScript · Solana · AI Agents · Yangon, Myanmar
 
 ## About
 
-I build agent systems, on-chain products, and TypeScript apps that ship past the demo. I ship in public on Superteam, DoraHacks, and HackQuest.
+I build software people can run for real: plant ops tools, on-chain credit flows, and callable services. I ship in public on Superteam, DoraHacks, and HackQuest.
 
 Open to remote and full-time engineering roles.
 
@@ -42,13 +42,13 @@ Open to remote and full-time engineering roles.
 
 | Project | Focus | Links |
 |:---|:---|:---|
-| **[Vectra](https://github.com/thesithunyein/vectra)** | Industrial monitoring · AI downtime briefs · Solana-attested handoffs | [Live](https://vectra.sithunyein.com) · [Repo](https://github.com/thesithunyein/vectra) |
-| **[Spark](https://github.com/thesithunyein/spark)** | Attestcoin-verified DeFi credit on Creditcoin | [Live](https://spark-defi.vercel.app) · [Repo](https://github.com/thesithunyein/spark) |
-| **[PixelBrief](https://github.com/thesithunyein/pixelbrief)** | HackQuest OKX.AI Genesis · brand-kit ASP | [Agent #5421](https://www.okx.ai/agents/5421) · [Repo](https://github.com/thesithunyein/pixelbrief) |
+| **[Vectra](https://github.com/thesithunyein/vectra)** | Plant monitoring · downtime briefs · Solana-attested handoffs | [Product](https://vectra.sithunyein.com) · [Repo](https://github.com/thesithunyein/vectra) |
+| **[Spark](https://github.com/thesithunyein/spark)** | Attestcoin-verified credit on Creditcoin | [Product](https://spark-defi.vercel.app) · [Repo](https://github.com/thesithunyein/spark) |
+| **[PixelBrief](https://github.com/thesithunyein/pixelbrief)** | HackQuest OKX.AI Genesis · brand-kit service | [Agent #5421](https://www.okx.ai/agents/5421) · [Repo](https://github.com/thesithunyein/pixelbrief) |
 
-[![arb-guardian](https://img.shields.io/badge/arb--guardian-Officer%20AI-0052FF?style=flat-square)](https://github.com/thesithunyein/arb-guardian)
+[![arb-guardian](https://img.shields.io/badge/arb--guardian-treasury%20protection-0052FF?style=flat-square)](https://github.com/thesithunyein/arb-guardian)
 [![cipher-sign](https://img.shields.io/badge/cipher--sign-policy%20TEE%20vault-6C5CE7?style=flat-square)](https://github.com/thesithunyein/cipher-sign)
-[![shiftledger](https://img.shields.io/badge/shiftledger-AI%20payroll-14F195?style=flat-square)](https://github.com/thesithunyein/shiftledger)
+[![shiftledger](https://img.shields.io/badge/shiftledger-factory%20payroll-14F195?style=flat-square)](https://github.com/thesithunyein/shiftledger)
 [![consensus](https://img.shields.io/badge/consensus-Zerion%20mention-2962EF?style=flat-square)](https://github.com/thesithunyein/consensus)
 
 ---
@@ -62,10 +62,9 @@ Open to remote and full-time engineering roles.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![AI Agents](https://img.shields.io/badge/AI%20Agents-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
 ![x402](https://img.shields.io/badge/x402-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
 ![Foundry](https://img.shields.io/badge/Foundry-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
 
 ---
 
