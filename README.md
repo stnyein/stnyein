@@ -21,6 +21,7 @@ TypeScript · Solana · Yangon, Myanmar
 [![Superteam](https://img.shields.io/badge/Superteam-Active-14F195?style=flat-square&logo=solana&logoColor=black)](https://superteam.fun/earn/t/sithunyein)
 [![DoraHacks](https://img.shields.io/badge/DoraHacks-Builder-6C5CE7?style=flat-square)](https://dorahacks.io/hacker/sithunyein)
 [![HackQuest](https://img.shields.io/badge/HackQuest-Builder-0d0d10?style=flat-square)](https://www.hackquest.io/)
+[![Inco](https://img.shields.io/badge/Inco%20%C3%97%20Megapot%20Game%20Jam-Honorable%20Mention-3673f5?style=flat-square)](https://www.inco.org/blog/summer-game-jam-winners)
 [![Zerion](https://img.shields.io/badge/Zerion-Honorable%20Mention-2962EF?style=flat-square)](https://x.com/zerion/status/2060377271337463835)
 [![English](https://img.shields.io/badge/English-C2%20Proficient-1B4F72?style=flat-square)](https://cert.efset.org/F94d2X)
 
@@ -30,7 +31,9 @@ TypeScript · Solana · Yangon, Myanmar
 
 ## About
 
-I build software people can run for real: plant ops tools, on-chain credit flows, and callable services. I ship in public on Superteam, DoraHacks, and HackQuest.
+I build software people can run for real: on-chain credit flows, confidential on-chain games, agent accountability rails, and callable AI services. I ship in public on Superteam, DoraHacks, and HackQuest.
+
+Honorable mentions: **Inco × Megapot Summer Game Jam** (pi River, Aug 2026) · **Zerion** (Consensus, May 2026).
 
 Open to remote and full-time engineering roles.
 
@@ -42,10 +45,12 @@ Open to remote and full-time engineering roles.
 
 | Project | Focus | Links |
 |:---|:---|:---|
-| **[Vectra](https://github.com/thesithunyein/vectra)** | Plant monitoring · downtime briefs · Solana-attested handoffs | [Product](https://vectra.sithunyein.com) · [Repo](https://github.com/thesithunyein/vectra) |
-| **[Spark](https://github.com/thesithunyein/spark)** | Attestcoin-verified credit on Creditcoin | [Product](https://spark-defi.vercel.app) · [Repo](https://github.com/thesithunyein/spark) |
-| **[PixelBrief](https://github.com/thesithunyein/pixelbrief)** | HackQuest OKX.AI Genesis · brand-kit service | [Agent #5421](https://www.okx.ai/agents/5421) · [Repo](https://github.com/thesithunyein/pixelbrief) |
+| **[Spark](https://github.com/thesithunyein/spark)** | Attestcoin-verified credit on Creditcoin — pay once, unlock credit | [Product](https://spark.sithunyein.com) · [Repo](https://github.com/thesithunyein/spark) |
+| **[pi River](https://github.com/thesithunyein/pi-river)** | Confidential Hold'em with Inco-encrypted hole cards · **Inco × Megapot Game Jam honorable mention** | [Play](https://pi.sithunyein.com) · [Repo](https://github.com/thesithunyein/pi-river) · [Winners](https://www.inco.org/blog/summer-game-jam-winners) |
+| **[Equxi](https://github.com/thesithunyein/equxi)** | Solana trust layer for AI agents — bond, enforce, slash, compensate | [Product](https://equxi.sithunyein.com) · [Repo](https://github.com/thesithunyein/equxi) |
+| **[PixelBrief](https://github.com/thesithunyein/pixelbrief)** | HackQuest OKX.AI Genesis · brand-kit service · x402 | [Agent #5421](https://www.okx.ai/agents/5421) · [Repo](https://github.com/thesithunyein/pixelbrief) |
 
+[![vectra](https://img.shields.io/badge/vectra-plant%20ops%20·%20Solana%20attestations-14F195?style=flat-square)](https://github.com/thesithunyein/vectra)
 [![arb-guardian](https://img.shields.io/badge/arb--guardian-treasury%20protection-0052FF?style=flat-square)](https://github.com/thesithunyein/arb-guardian)
 [![cipher-sign](https://img.shields.io/badge/cipher--sign-policy%20TEE%20vault-6C5CE7?style=flat-square)](https://github.com/thesithunyein/cipher-sign)
 [![shiftledger](https://img.shields.io/badge/shiftledger-factory%20payroll-14F195?style=flat-square)](https://github.com/thesithunyein/shiftledger)
@@ -64,6 +69,7 @@ Open to remote and full-time engineering roles.
 
 ![x402](https://img.shields.io/badge/x402-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
 ![Foundry](https://img.shields.io/badge/Foundry-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
+![Inco Lightning](https://img.shields.io/badge/Inco%20Lightning-FHE-3673f5?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d10?style=flat-square&labelColor=14F195&color=0d0d10)
 
 ---
